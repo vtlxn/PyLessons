@@ -1,2 +1,2 @@
-# PyLessons
-Python homework [Hillel School]
+# Python homework from Hillel School
+
